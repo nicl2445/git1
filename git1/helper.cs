@@ -8,5 +8,9 @@ namespace git1
 {
     class helper
     {
+        public string hellogit()
+        {
+            return "hello git";
+        }
     }
 }
